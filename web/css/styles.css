@@ -2164,3 +2164,12 @@ a:hover.back-to-top {
   	background-position: center center;
   	background-attachment: fixed
 }
+.centrado{
+	text-align: center;
+}
+.nose-todavia{
+	background-color: rgba(0, 0, 0, 0.412)!important;
+}
+.texto-medida{
+	font-size: 1rem;
+}
